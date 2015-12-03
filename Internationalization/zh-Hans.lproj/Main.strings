@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Time:"; ObjectID = "JWF-Lg-nU9"; */
+"JWF-Lg-nU9.text" = "时间:";
+
+/* Class = "UILabel"; text = "Ttile:"; ObjectID = "c3j-h8-noz"; */
+"c3j-h8-noz.text" = "标题:";
+
+/* Class = "UILabel"; text = "today"; ObjectID = "heF-7U-lP9"; */
+"heF-7U-lP9.text" = "12/24/2015";
+
+/* Class = "UILabel"; text = "971.34"; ObjectID = "jVR-uN-M5z"; */
+"jVR-uN-M5z.text" = "971.34";
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "kcM-lo-ftT"; */
+"kcM-lo-ftT.text" = "金额:";
+
